@@ -1,0 +1,15 @@
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\Conversao_de_tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\Conversao_de_tipos.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\Conversao_de_tipos.AssemblyInfo.cs
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\Conversao_de_tipos.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\Conversao_de_tipos.sourcelink.json
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\bin\Debug\net8.0\Conversao_de_tipos.exe
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\bin\Debug\net8.0\Conversao_de_tipos.deps.json
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\bin\Debug\net8.0\Conversao_de_tipos.runtimeconfig.json
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\bin\Debug\net8.0\Conversao_de_tipos.dll
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\bin\Debug\net8.0\Conversao_de_tipos.pdb
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\Conversao_de_tipos.dll
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\refint\Conversao_de_tipos.dll
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\Conversao_de_tipos.pdb
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\Conversao_de_tipos.genruntimeconfig.cache
+C:\Users\julio\OneDrive\Documentos\Aprendendo-.Net\Conversao_de_tipos\obj\Debug\net8.0\ref\Conversao_de_tipos.dll
